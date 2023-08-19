@@ -146,7 +146,7 @@ export default [
         name:"Behrouz Biriyani",
         rating:4.3,
         time:"45-50",
-        adress:"Residency Road, Shantinagar",
+        adress:"Residency Road, Sanjay nagar",
         ratings:"100",
         cost_for_two:430,
         cuisines:"north Indian, South Indian"
@@ -155,10 +155,10 @@ export default [
     {
         id:"3",
         image:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/w1rrow27w3vb3ur5xbi9",
-        name:"Mac'D Burger",
+        name:"Mac'D Burga",
         rating:4.3,
-        time:"25-540",
-        adress:"Residency Road, Shantinagar",
+        time:"25-40",
+        adress:"Residency Road, Shanti nagar",
         ratings:"100",
         cost_for_two:330,
         cuisines:"western-food, fast-food"

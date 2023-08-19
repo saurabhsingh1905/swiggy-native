@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 const Filter = () => {
   return (
-    <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-around"}}>
+    <View style={{flexDirection:"row",alignItems:"center",justifyContent:"space-around",marginHorizontal:3}}>
     <Pressable  style={{
           marginHorizontal: 10,
           flexDirection: "row",
@@ -14,7 +14,7 @@ const Filter = () => {
           borderColor: "#D0D0D0",
           padding: 10,
           borderRadius: 20,
-          width:120,
+          width:110,
           justifyContent: "center",
         }}>
 <Text style={{marginRight:6}}>Filter  </Text>
